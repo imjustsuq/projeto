@@ -87,12 +87,13 @@ def main():
         print(f'Média das notas: {media:.2f}')
         print(f'Total de filmes avaliados: {len(filmes)}')
         
-        # Perguntar se deseja salvar novamente essa poha
+        # Perguntar se deseja salvar novamente essa maravilha
         print()
         salvar = input('Deseja salvar as avaliações em um arquivo de texto? (s/n): ').lower()
         if salvar == 's':
             salvar_avaliacoes(filmes, notas)
     else:
         print('Nenhum filme foi avaliado.')
+
 
     print('\nObrigado(a) por utilizar o avaliador de filmes!')
