@@ -1,2 +1,2 @@
 # projeto
-Um avaliador de filmes.
+Um avaliador de filmes, feito em python.
