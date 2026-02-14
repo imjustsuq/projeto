@@ -8,7 +8,7 @@ def salvar_avaliacoes(filmes, notas):
                 arquivo.write(f'Filme: {filmes[i]}\n')
                 arquivo.write(f'Nota: {notas[i]:.1f}\n')
                 
-                # Classificacion
+                # Classificação
                 if notas[i] > 8:
                     classificacao = 'Excelente'
                 elif notas[i] >= 7:
@@ -78,7 +78,7 @@ def main():
         avaliar_novamente = input('Deseja avaliar outro filme? (s/n): ').lower()
         print()
     
-    # Exibir estatísticxas
+    # Exibir estatísticas
     if len(notas) > 0:
         media = sum(notas) / len(notas)
         print('\n=== Resumo das Avaliações ===')
@@ -97,3 +97,4 @@ def main():
 
 
     print('\nObrigado(a) por utilizar o avaliador de filmes!')
+
