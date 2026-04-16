@@ -1,4 +1,3 @@
-# Projeto
 🎬 Avaliador de Filmes em Python
 
 Sistema simples desenvolvido em Python para registro e avaliação de filmes diretamente pelo terminal.
