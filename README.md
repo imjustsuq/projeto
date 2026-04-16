@@ -33,3 +33,10 @@ Este projeto foi desenvolvido com o objetivo de praticar lógica de programaçã
 
 ## 🧑‍💻 Tecnologias utilizadas
 * Python
+
+## 🔗 Como executar
+
+1. Baixe o arquivo `.py`
+2. Execute com Python instalado:
+```bash
+python projeto_avaliador_filmes.py
