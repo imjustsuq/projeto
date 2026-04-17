@@ -98,3 +98,8 @@ def main():
 
     print('\nObrigado(a) por utilizar o avaliador de filmes!')
 
+if __name__ == "__main__":
+    main()
+"""Função principal do avaliador de filmes"""
+print('=== Avaliador de Filmes ===\n')
+
