@@ -6,7 +6,7 @@ Sistema simples desenvolvido em Python para registro e avaliação de filmes dir
 * Adicionar filmes com nome e nota
 * Listar filmes cadastrados
 * Organização por notas e cálculo de média
-* Armazenamento dos dados em arquivo .txt (persistência)
+* Armazenamento dos dados em arquivo .txt 
 
 
 ## ⚙️ Como funciona
